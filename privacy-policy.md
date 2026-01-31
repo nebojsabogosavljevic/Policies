@@ -1,8 +1,8 @@
 Privacy Policy
 
-Last updated: 1. February 2026
+Last updated: [1. February 2026]
 
-This Privacy Policy describes how Monday Chrome Extension Helper (“the App”) collects, uses, and protects user data when connecting to monday.com.
+This Privacy Policy describes how [Monday Chrome Extension Helper] (“the App”) collects, uses, and protects user data when connecting to monday.com.
 
 Data Access and Usage
 
@@ -29,4 +29,4 @@ Reasonable technical and organizational measures are implemented to protect user
 Contact
 
 If you have any questions about this Privacy Policy, please contact:
-nebojsabogosvljevic3@gmail.com
+[nebojsabogosvljevic3@gmail.com]
